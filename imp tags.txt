@@ -1,0 +1,28 @@
+SEMANTIC
+<header>
+<nav>
+<footer>
+<figure>
+
+GENERIC
+<p>
+<div>
+
+BLOCK TAGS
+CONTAINERS.....put like minded contains tgt
+<article>
+<aside>
+<section>
+<main>
+
+<hr>
+<address>
+<blockquote>-cite attribute
+<details> with <summary>
+
+INLINE
+sub 
+sup
+abbr
+time
+
